@@ -1,0 +1,40 @@
+
+
+@media (max-width: 991.98px){
+header ul li a {
+margin-top:-50px;
+margin-left:-120px}
+.drop-menu-link li a{
+	margin-top:20px
+}
+.img-logo{
+	margin-right:-120px
+}
+
+}
+
+@media (max-width: 1199.98px){
+header ul li a {
+
+margin-left:-80px
+}
+.img-logo{
+	margin-right:-80px
+}
+}
+
+@media(max-width:767px){
+	
+	nav{
+		display:none;
+	}
+	
+	.img-logo{
+	text-align:right;
+	margin-right:50px
+}
+	.active{
+		display:inline;
+		 
+	}
+}
